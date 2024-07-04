@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class IdbsPolicyConfig(AppConfig):
+class VtunerConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'idbs_policy'
+    name = 'vtuner'
